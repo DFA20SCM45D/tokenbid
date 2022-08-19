@@ -3,8 +3,8 @@ server:
 spring:
   datasource:
     username: postgres
-    password: 1121Revature
-    url: jdbc:postgresql://revature-db.cn6l9mwmtabj.us-east-1.rds.amazonaws.com:5432/tokenbid
+    password: dhairyadixit
+    url: jdbc:postgresql://java-revature-dhairya.cibikjimihdn.us-east-2.rds.amazonaws.com:5432/tokenbid
     driver-class-name: org.postgresql.Driver
   mail:
     host: smtp.gmail.com
