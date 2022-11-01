@@ -4,7 +4,7 @@ spring:
   datasource:
     username: postgres
     password: dhairyadixit
-    url: jdbc:postgresql://java-revature-dhairya.cibikjimihdn.us-east-2.rds.amazonaws.com:5432/tokenbid
+    url: jdbc:postgresql://tokenbidapp.cibikjimihdn.us-east-2.rds.amazonaws.com:5432/postgres
     driver-class-name: org.postgresql.Driver
   mail:
     host: smtp.gmail.com
